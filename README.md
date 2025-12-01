@@ -46,8 +46,6 @@
 
 ---
 
-## 🚀 About Me
-
 ```typescript
 const cyril = {
     pronouns: "he" | "him",
@@ -70,17 +68,3 @@ const cyril = {
     funFact: "I debug with console.log() and I'm not ashamed"
 };
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
