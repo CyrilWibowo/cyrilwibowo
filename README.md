@@ -119,6 +119,18 @@ const cyril = {
 
 ---
 
+## 🎵 My Favorite Video
+
+<div align="center">
+
+[![Favorite Video](https://img.youtube.com/vi/Q7XpbunqZT4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q7XpbunqZT4)
+
+*Click to watch on YouTube!*
+
+</div>
+
+---
+
 <div align="center">
 
 ### ✨ Show some ❤️ by starring some repositories!
