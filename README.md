@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Cyril
+# Welcome to my Profile!
 
 ### Full-Stack Developer | Tech Enthusiast | Problem Solver
 
@@ -40,31 +40,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 </div>
 
----
-
-```typescript
-const cyril = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "cloud", "architecture"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["FastAPI", "Django"]
-        },
-        cloud: ["AWS"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        misc: ["Docker", "Git", "REST APIs"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed"
-};
-```
